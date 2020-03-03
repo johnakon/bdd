@@ -1,0 +1,17 @@
+{
+  "name": "bdd",
+  "version": "1.0.0",
+  "description": "BDD",
+  "main": "bank-account.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "johntel",
+  "license": "ISC",
+  "dependencies": {
+    "gherkin-easy": "^1.2.0"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
